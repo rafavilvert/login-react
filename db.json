@@ -1,0 +1,12 @@
+{
+  "logins": [
+    {
+      "user": "Admin",
+      "email": "admin@admin.com",
+      "password": "1234",
+      "authenticated": false,
+      "avatar": "https://cdn2.iconfinder.com/data/icons/audio-16/96/user_avatar_profile_login_button_account_member-512.png",
+      "id": 1
+    }
+  ]
+}
